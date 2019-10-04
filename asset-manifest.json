@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HOC/static/css/main.47b84665.chunk.css",
+    "main.js": "/HOC/static/js/main.1308f294.chunk.js",
+    "main.js.map": "/HOC/static/js/main.1308f294.chunk.js.map",
+    "runtime-main.js": "/HOC/static/js/runtime-main.4a8aa494.js",
+    "runtime-main.js.map": "/HOC/static/js/runtime-main.4a8aa494.js.map",
+    "static/js/2.63130d7f.chunk.js": "/HOC/static/js/2.63130d7f.chunk.js",
+    "static/js/2.63130d7f.chunk.js.map": "/HOC/static/js/2.63130d7f.chunk.js.map",
+    "index.html": "/HOC/index.html",
+    "precache-manifest.ad93dbc0935af35aadfc2d36f5406839.js": "/HOC/precache-manifest.ad93dbc0935af35aadfc2d36f5406839.js",
+    "service-worker.js": "/HOC/service-worker.js",
+    "static/css/main.47b84665.chunk.css.map": "/HOC/static/css/main.47b84665.chunk.css.map",
+    "static/media/drive.jpg": "/HOC/static/media/drive.ae8038ae.jpg",
+    "static/media/fightclub.jpg": "/HOC/static/media/fightclub.32e10f4a.jpg",
+    "static/media/historyx.jpg": "/HOC/static/media/historyx.4b00deb6.jpg",
+    "static/media/shawshank.jpg": "/HOC/static/media/shawshank.72ad4bdb.jpg",
+    "static/media/trainspotting.jpg": "/HOC/static/media/trainspotting.60df5080.jpg"
+  }
+}
